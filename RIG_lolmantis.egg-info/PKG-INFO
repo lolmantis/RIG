@@ -2,16 +2,16 @@ Metadata-Version: 2.1
 Name: RIG-lolmantis
 Version: 0.0.2
 Summary: Random Inspiration Generator.
-Home-page: https://github.com/aspekts/statisfy.py
+Home-page: https://github.com/lolmantis/RIG
 Author: Lolmantis
 Author-email: support@yarndev.xyz
 License: UNKNOWN
 Download-URL: https://github.com/aspekts/statisfy/archive/v_002.tar.gz
-Project-URL: Bug Tracker, https://github.com/aspekts/statisfy.py/issues
+Project-URL: Bug Tracker, https://github.com/lolmantis/RIG/issues
 Description: # RIG
         Random Inspiration Generator. Use it as much as you like, it stores what it generates in inspo.txt, have fun!
         
-Keywords: python,stats,statisfy,statistics,api wrapper,analytics
+Keywords: python,RIG,inspiration
 Platform: UNKNOWN
 Classifier: Development Status :: 2 - Pre-Alpha
 Classifier: Intended Audience :: Developers
