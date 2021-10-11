@@ -5,7 +5,7 @@ setup(
   name="RIG-lolmantis",
   version="0.0.2",
   author="Lolmantis",
-  author_email="support@yarndev.xyz",
+  author_email="86570299+lolmantis@users.noreply.github.com",
   description="Random Inspiration Generator.",
   long_description_content_type="text/markdown",
   long_description=long_description,
