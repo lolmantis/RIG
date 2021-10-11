@@ -24,5 +24,3 @@ class RIG:
         RIG.object_writer(f"{object} {theme} {emotion} {question}")
         return(object,theme,emotion,question)
 
-inspo = RIG()
-print(inspo.inspo_combo())

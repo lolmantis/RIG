@@ -1,0 +1,8 @@
+README.md
+setup.py
+RIG/RIG.py
+RIG/__init__.py
+RIG_lolmantis.egg-info/PKG-INFO
+RIG_lolmantis.egg-info/SOURCES.txt
+RIG_lolmantis.egg-info/dependency_links.txt
+RIG_lolmantis.egg-info/top_level.txt
