@@ -17,6 +17,7 @@ class RIG:
                 objects = data.strip().split("\n")
                 if line == counter:
                     return(objects[0])
+
     def inspo_combo(RIG):
         object = RIG.object_chooser("objects",231)
         theme = RIG.object_chooser("themes",357)
@@ -24,4 +25,3 @@ class RIG:
         question = RIG.object_chooser("questions",30)
         RIG.object_writer(f"{object} {theme} {emotion} {question}")
         return(object,theme,emotion,question)
-
