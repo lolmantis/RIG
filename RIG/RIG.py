@@ -6,6 +6,7 @@ class RIG:
     def object_writer(RIG,writen):
         with open("Inspo.txt","a") as file:
             file.write(f"{writen}\n")
+        file.close()
 
     def object_chooser(RIG,list,length):
         with open(f'{list}.txt') as file:
